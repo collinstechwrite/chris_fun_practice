@@ -537,7 +537,6 @@ def ownfile():
                         num2 = randrange(0,10)
                     
                         print("{} #{} #{} #{}, Sold over {}, {} sold in last hour. {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),mostSold,mostSoldinhours,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
-                        ABC = ("{} #{} #{} #{}, Sold over {}, {} sold in last hour. {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),mostSold,mostSoldinhours,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
                         
                         print('NEXT PROCESS')
                         
@@ -616,7 +615,6 @@ def ownfile():
                         num2 = randrange(0,10)
                     
                         print("{} #{} #{} #{}, Sold over {}, {} sold in last hour. {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),mostSold,mostSoldinhours,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
-                        ABC = ("{} #{} #{} #{}, Sold over {}, {} sold in last hour. {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),mostSold,mostSoldinhours,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
                         
                         print('NEXT PROCESS')
                         print(errorcount)
@@ -690,7 +688,6 @@ def ownfile():
                             num2 = randrange(0,10)
                         
                             print("{} #{} #{} #{}, {} Watchers, {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
-                            ABC = ("{} #{} #{} #{}, {} Watchers, {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
 
                             
                             print('NEXT PROCESS')
@@ -766,7 +763,6 @@ def ownfile():
                             num2 = randrange(0,10)
                         
                             print("{} #{} #{} #{}, {} Watchers, {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
-                            ABC = ("{} #{} #{} #{}, {} Watchers, {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
 
                             
                             print('NEXT PROCESS')
@@ -846,7 +842,6 @@ def ownfile():
                             num2 = randrange(0,10)
                         
                             print("{} #{} #{} #{}, {} Watchers, {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
-                            ABC = ("{} #{} #{} #{}, {} Watchers, {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
 
                             
                             print('NEXT PROCESS')
@@ -917,8 +912,7 @@ def ownfile():
                         num = randrange(0,13)
                     
                         print("{} #{} #{} #{}, {} Watchers, http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,yourebaycampaignID,itemID))
-                        ABC = ("{} #{} #{} #{}, {} Watchers, http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,yourebaycampaignID,itemID))
-                        
+                       
                         print('NEXT PROCESS')
 
                         print(errorcount)
@@ -986,7 +980,6 @@ def ownfile():
                         num = randrange(0,13)
                     
                         print("{} #{} #{} #{}, {} Watchers, http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,yourebaycampaignID,itemID))
-                        ABC = ("{} #{} #{} #{}, {} Watchers, http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,yourebaycampaignID,itemID))
                         
                         print('NEXT PROCESS')
 
@@ -1058,7 +1051,7 @@ def ownfile():
                         num = randrange(0,12)
                     
                         print("{} #{} #{} #{}, Sold over {}, {} sold in last hour http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),mostSold,mostSoldinhours,yourebaycampaignID,itemID))
-                        ABC = ("{} #{} #{} #{}, Sold over {}, {} sold in last hour http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),mostSold,mostSoldinhours,yourebaycampaignID,itemID))
+                        
                         
                         print('NEXT PROCESS')
 
@@ -1192,8 +1185,7 @@ def MyEbayTestCode():
                         num2 = randrange(0,10)
                     
                         print("{} #{} #{} #{}, Sold over {}, {} sold in last hour. {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),mostSold,mostSoldinhours,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
-                        ABC = ("{} #{} #{} #{}, Sold over {}, {} sold in last hour. {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),mostSold,mostSoldinhours,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
-                        
+                      
                         print('NEXT PROCESS')
                         print(errorcount)
                         print(countpromotions)
@@ -1266,8 +1258,6 @@ def MyEbayTestCode():
                         num2 = randrange(0,10)
                     
                         print("{} #{} #{} #{}, Sold over {}, {} sold in last hour. {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),mostSold,mostSoldinhours,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
-                        ABC = ("{} #{} #{} #{}, Sold over {}, {} sold in last hour. {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),mostSold,mostSoldinhours,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
-                        
                         print('NEXT PROCESS')
                         print(errorcount)
                         print(countpromotions)
@@ -1337,9 +1327,7 @@ def MyEbayTestCode():
                             num2 = randrange(0,10)
                         
                             print("{} #{} #{} #{}, {} Watchers, {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
-                            ABC = ("{} #{} #{} #{}, {} Watchers, {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
-
-                            
+                          
                             print('NEXT PROCESS')
                             print(errorcount)
                             print(countpromotions)
@@ -1412,7 +1400,6 @@ def MyEbayTestCode():
                             num2 = randrange(0,10)
                         
                             print("{} #{} #{} #{}, {} Watchers, {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
-                            ABC = ("{} #{} #{} #{}, {} Watchers, {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
 
                             
                             print('NEXT PROCESS')
@@ -1490,9 +1477,7 @@ def MyEbayTestCode():
                             num2 = randrange(0,10)
                         
                             print("{} #{} #{} #{}, {} Watchers, {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
-                            ABC = ("{} #{} #{} #{}, {} Watchers, {} ${} http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,MyRandomPrices[num2],price,yourebaycampaignID,itemID))
-
-                            
+                           
                             print('NEXT PROCESS')
                             print(errorcount)
                             print(countpromotions)
@@ -1561,8 +1546,7 @@ def MyEbayTestCode():
                         num = randrange(0,13)
                     
                         print("{} #{} #{} #{}, {} Watchers, http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,yourebaycampaignID,itemID))
-                        ABC = ("{} #{} #{} #{}, {} Watchers, http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,yourebaycampaignID,itemID))
-                        
+                     
                         print('NEXT PROCESS')
 
                         print(errorcount)
@@ -1631,7 +1615,6 @@ def MyEbayTestCode():
                         num = randrange(0,13)
                     
                         print("{} #{} #{} #{}, {} Watchers, http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,yourebaycampaignID,itemID))
-                        ABC = ("{} #{} #{} #{}, {} Watchers, http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),watchers,yourebaycampaignID,itemID))
                         
                         print('NEXT PROCESS')
 
@@ -1702,7 +1685,7 @@ def MyEbayTestCode():
                         num = randrange(0,12)
                     
                         print("{} #{} #{} #{}, Sold over {}, {} sold in last hour http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),mostSold,mostSoldinhours,yourebaycampaignID,itemID))
-                        ABC = ("{} #{} #{} #{}, Sold over {}, {} sold in last hour http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=2&pub=5575036718&toolid=10001&campid={}&customid=&icep_item={}&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg ".format(MyRandomPhrases[num],title,str(tag1),str(tag2),mostSold,mostSoldinhours,yourebaycampaignID,itemID))
+                        
                         
                         print('NEXT PROCESS')
 
