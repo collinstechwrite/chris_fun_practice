@@ -182,7 +182,7 @@ mydictionary = {}
 #For RSS Extraction
 pear = unescape2(myinput)
 print(pear)
-print('{:8} {:8} {:5} {:10} {:14} {:10}'.format('Watch', 'Sold', 'Hour', 'Price','ItemID','Title'))
+print('{:20} {:8}'.format('Title','Price'))
 linkforprocessing = ("http://rest.ebay.com/epn/v1/find/item.rss?keyword=" + pear + "&programid=1&campaignid=5338598285&toolid=10039&lgeo=1&descriptionSearch=true&feedType=rss&sortOrder=BestMatch&listingType1=AuctionWithBIN&listingType2=FixedPrice&minPrice=" + priceinputmin +"&maxPrice="+ priceinputmax + "&buyerPostalCode=" + zipcode + "&maxDistance=" + distancetozipcode)
 f = requests.get(linkforprocessing)
 websiteData = f.text
@@ -206,8 +206,7 @@ for itemID in extractEbayItemIDFromWebsite:
     
     count += 1
     
-    
-    print ("count:",count)
+
     print(title[0:20],price)
     if count == limit:
         break
@@ -240,7 +239,7 @@ mydictionary2 = {}
 #For RSS Extraction
 pear = unescape2(myinput)
 print(pear)
-print('{:8} {:8} {:5} {:10} {:14} {:10}'.format('Watch', 'Sold', 'Hour', 'Price','ItemID','Title'))
+print('{:20} {:8}'.format('Title', 'Price'))
 linkforprocessing = ("http://rest.ebay.com/epn/v1/find/item.rss?keyword=" + pear + "&programid=1&campaignid=5338598285&toolid=10039&lgeo=1&descriptionSearch=true&feedType=rss&sortOrder=BestMatch&listingType1=AuctionWithBIN&listingType2=FixedPrice&minPrice=" + priceinputmin +"&maxPrice="+ priceinputmax + "&buyerPostalCode=" + zipcode2 + "&maxDistance=" + distancetozipcode)
 f = requests.get(linkforprocessing)
 websiteData = f.text
@@ -264,8 +263,6 @@ for itemID in extractEbayItemIDFromWebsite:
     
     count2 += 1
     
-    
-    print ("count:",count2)
     print(title[0:20],price)
     if count2 == limit:
         break
