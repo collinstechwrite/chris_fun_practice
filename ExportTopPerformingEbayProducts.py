@@ -2,13 +2,10 @@ import sys
 import urllib
 import re
 from datetime import datetime
-import tweepy
-from twython import Twython, TwythonError
 import requests
 import time
 from random import randint, choice, sample, randrange, shuffle
 from time import sleep
-from twitter import *
 import os
 from openpyxl import Workbook, load_workbook
 from colorama import init, Fore, Back, Style
